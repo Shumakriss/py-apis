@@ -1,2 +1,7 @@
 # py-apis
-A repo for basic examples of working with API's in Python based on the blog post: https://sites.google.com/view/makerconsulting/resources/blog/working-with-apis-in-python
+
+This project provides source code for this blog post: https://sites.google.com/view/makerconsulting/resources/blog/hf-inference-endpoints
+
+The file test.py demonstrates:
+- Invoking an inference endpoint from HuggingFace (BERT sentiment classification)
+- Prevention of exposed authorization tokens
